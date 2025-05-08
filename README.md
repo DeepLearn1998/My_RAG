@@ -1,4 +1,4 @@
-# The demo is used to supervise-finetuning your embedding model.
+# Supervise-finetuning your embedding model
 
 ## Quick start
 ### Step 1. download model
